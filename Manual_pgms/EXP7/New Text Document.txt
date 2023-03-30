@@ -1,0 +1,40 @@
+
+import java.awt. * ;
+import javax.swing. * ;
+import javax.swing.tree. *;
+
+class Exp7_prg3 extendsJFrame
+{
+Container c;
+JTree t;
+JScrollPane js:
+DefaultMutableTreeNode DefaultMutableTreeNode ("India");
+root = newDefaultMutableTreeNode m= new DefaultMutableTreeNode ("Maharash tra");
+DefaultMutableTreeNode g=new DefaultMutableTreeNode ( "Gujrat");
+DefaultMutableTreeNode mm= new DefaultMutableTreeNode ( "Mumbai");
+DefaultMutable TreeNode mp=new DefaultMutableTreeNode ("Pune " );
+DefaultMutableTreeNode mn=new DefaultMutableTreeNode ("Nashik");
+DefaultMutableTreeNode mng=new DefaultMutableTreeNode ("Nagpur")
+Exp7-peg3()
+{
+setSize (300, 200);
+setDefaultCloseOperation(JFrameEXIT_ON_CLOSE) ;
+c=getContentPane();
+t=new JTree (root);
+root.add (m);
+root.add(g);
+m. add (mm);
+m. add (mp);
+m. add (mn);
+m. add (mng);
+js= new JScrollPane (t);
+c.add(js);
+setVisible(true); 
+}
+public static void main(String args[])
+{
+Exp7_prg3obj=new Exp7_prg3();
+
+}
+
+}

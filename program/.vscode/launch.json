@@ -1,0 +1,119 @@
+ {
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch clockexam",
+            "request": "launch",
+            "mainClass": "clockexam",
+            "projectName": "program_a673c1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Permutations",
+            "request": "launch",
+            "mainClass": "Permutations",
+            "projectName": "program_a673c1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch typicalkeypad_phonekey",
+            "request": "launch",
+            "mainClass": "typicalkeypad_phonekey",
+            "projectName": "program_a673c1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch subsequences",
+            "request": "launch",
+            "mainClass": "subsequences",
+            "projectName": "program_a673c1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrix",
+            "request": "launch",
+            "mainClass": "matrix",
+            "projectName": "program_a673c1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch excercise",
+            "request": "launch",
+            "mainClass": "excercise",
+            "projectName": "program_a673c1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch HELLOW_WORLD",
+            "request": "launch",
+            "mainClass": "HELLOW_WORLD",
+            "projectName": "program_a673c1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "program_a673c1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PAtterns",
+            "request": "launch",
+            "mainClass": "PAtterns",
+            "projectName": "program_a673c1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch conditional_stat",
+            "request": "launch",
+            "mainClass": "conditional_stat",
+            "projectName": "program_a673c1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch greater_smaller",
+            "request": "launch",
+            "mainClass": "greater_smaller",
+            "projectName": "program_a673c1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch menu_driven_marks",
+            "request": "launch",
+            "mainClass": "menu_driven_marks",
+            "projectName": "program_a673c1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch odd_even",
+            "request": "launch",
+            "mainClass": "odd_even",
+            "projectName": "program_a673c1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime_number",
+            "request": "launch",
+            "mainClass": "prime_number",
+            "projectName": "program_a673c1f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch switch_stat",
+            "request": "launch",
+            "mainClass": "switch_stat",
+            "projectName": "program_a673c1f7"
+        }
+    ]
+}

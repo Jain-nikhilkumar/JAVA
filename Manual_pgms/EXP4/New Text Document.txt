@@ -1,0 +1,43 @@
+/*<Applet code="Exp4_prg2" width=500 height=500>
+</Applet>*/
+import java.awt.*;
+import java.applet.*;
+
+public class Exp4_pr2 extends Applet
+{
+Lable l1,l2;
+TextField t1;
+TextArea t2;
+Button b1;
+GridBagLayout g;
+GridBagConstaints c;
+public void init()
+{
+g=new GridBagLayout();
+c=new GridBagConstraints();
+setLayout(g);
+l1=new Label("Name");
+l2=new Label("Commit");
+t1=new TextField(5);
+t4=new TextArea(4,15);
+b1=new Button("Submit");
+c.gridx=0;
+c.gridy=0;
+c.fill=GridBagConstraints.BOTH;
+g.setConstraints(l1,c);
+c.gridx=1;
+g.setConstraints(t1,c);
+c.gridx=0;
+c.gridy=1;
+c.ipady=10;
+g.setConstraints(l2,c);
+c.gridx=1;
+g.setConstraints(t2,c);
+c.gridy=2;
+c.Gridwidth=3;
+g.setConstraints(b1,c);
+add(l1);
+add(l2);
+add(t1);
+add(t2);
+add(b1);

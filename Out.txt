@@ -1,0 +1,6 @@
+Name: nikhil
+Gender: Male
+Father name:arun
+Password: 123
+City: soalpur
+Email: nikhilkumar1514

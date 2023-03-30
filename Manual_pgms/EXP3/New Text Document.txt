@@ -1,0 +1,38 @@
+/*<Applet code="Exp3_prg4" width=500 height=500>
+</Applet>*/
+import java.awt.*;
+import java.applet.*;
+
+class Exp3_prg4 extends Frame
+{
+Button b1,b2,b3,b4,b5,b6;
+Panel p;
+Exp3_prg4(String title)
+{
+super(title);
+setSize(300,300);
+b1= new Button("East");
+b1= new Button("West");
+b1= new Button("South");
+b1= new Button("North");
+b1= new Button(Center");
+public void init()
+p=new Panel():
+add(b2.BorderLayout.WEST);
+add(b3.BorderLayout.SOUTH);
+add(b4.BorderLayout.NORTH);
+add(b5.BorderLayout.CENTER);
+add(b1.BorderLayout.EAST);
+setVisibl(true);
+addWindowListener(new WindowAdapter()
+{public void WindowClosing(WindowEvent e)
+{system.exit(0); 
+}
+});
+}
+
+publiic static void main(string args[])
+{
+Exp3_prg4 f=new Exp3_prg4("practicle manual exaple");
+}
+}
