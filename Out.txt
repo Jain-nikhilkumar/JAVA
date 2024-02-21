@@ -1,6 +1,3 @@
-Name: nikhil
-Gender: Male
-Father name:arun
-Password: 123
-City: soalpur
-Email: nikhilkumar1514
+            
+            String query2 = "insert into bill values('"+meter+"', '"+month+"', '"+units+"', '"+totalbill+"', 'Not Paid')";
+        
