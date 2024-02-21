@@ -21,7 +21,7 @@ public class Myproject extends JFrame implements ActionListener {
     g = new GridBagLayout();
     setLayout(g); 
     co = getContentPane();
-    Color cc = new Color(100,-- 150, 250);
+    Color cc = new Color(100,150, 250);
     co.setBackground(cc);
     Font f = new Font("Calibri", Font.PLAIN, 30);
     l1 = new JLabel("User Name ");
