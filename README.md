@@ -1,0 +1,1 @@
+## Welcome to my Java Code Repository! This repository contains a collection of my Java projects, scripts, and exercises across various domains, including web development, algorithms, and more. Explore and learn from diverse code examples and projects, organized for easy navigation and understanding.
